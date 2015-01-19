@@ -15,6 +15,7 @@
     },
     "language": {
         "@instanceHighlight": "true",
+        "@semi": "true",
         "@undeclaredVars": "true",
         "@unusedFunctionArgs": "false",
         "@warnLevel": "info"
@@ -26,6 +27,7 @@
             "json()": {
                 "Ruby on Rails": {
                     "command": "",
+                    "debug": true,
                     "default": true,
                     "name": "Ruby on Rails",
                     "runner": "Ruby on Rails (Rails 4.0 + Ruby 2.1)"
